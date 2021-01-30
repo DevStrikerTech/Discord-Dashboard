@@ -1,0 +1,35 @@
+/* Body */
+body {
+    background: #F4F4F4;
+}
+
+/* Navbar */
+.navbar {
+    border-radius: 0 !important;
+}
+
+.navbar-default {
+    background-color: #B30000;
+    border-color: #B30000;
+}
+
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #DC143C;
+}
+
+/* Custom */
+.main-color-bg {
+    background-color: #B30000 !important;
+    border-color: #B30000 !important;
+    color: #FFFFFF;
+}
+
+/* Panel Title */
+.panel-title {
+    color: #FFFFFF;
+}
